@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://your-domain.tld/sitemap.xml
+Sitemap: https://taiwanbear.github.io/curiosa-/sitemap.xml
