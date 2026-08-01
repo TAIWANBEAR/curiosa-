@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://taiwanbear.github.io/curiosa-/sitemap.xml
+Sitemap: https://blackmaoeye.com/sitemap.xml
