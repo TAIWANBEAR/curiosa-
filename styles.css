@@ -76,6 +76,12 @@ a.card:hover{background:var(--surface)}
 .card h3{font-family:var(--serif);font-weight:700;margin:0 0 12px;font-size:21px;line-height:1.2}
 .card p{margin:0 0 16px;color:var(--muted);font-size:14px;line-height:1.6}
 .card .more{margin-top:auto;font-family:var(--mono);font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--accent)}
+.seemore{margin:26px 0 6px;text-align:center}
+.seemore a{display:inline-flex;align-items:center;gap:10px;font-family:var(--mono);font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink);border:2px solid var(--ink);padding:15px 32px;transition:background .15s,color .15s}
+.seemore a:hover{background:var(--ink);color:var(--bg)}
+.seemore a span{color:var(--accent);font-size:16px;line-height:1}
+.seemore a:hover span{color:var(--bg)}
+.arch-intro{color:var(--muted);font-size:15px;line-height:1.7;margin:0 0 22px;max-width:62ch}
 /* fiction */
 .stories{background:var(--night);color:var(--night-tx);padding:56px 0 60px}
 .stories .head{text-align:center;margin-bottom:40px}
