@@ -122,6 +122,7 @@ figure.photo figcaption b{color:var(--muted)}
 .prose{margin-top:26px}.prose p{font-size:17px;line-height:1.9;margin:0 0 20px}
 .prose h2{font-family:var(--serif);font-weight:700;font-size:22px;margin:34px 0 14px}
 .prose b{color:var(--ink);font-weight:700}
+.prose a{color:var(--accent);text-decoration:underline}
 blockquote{margin:30px 0;padding:6px 0 6px 24px;border-left:3px solid var(--accent);font-family:var(--serif);font-size:22px;line-height:1.5;font-style:italic}
 .post .mao{margin:30px 0}
 .sources{margin-top:30px;padding-top:18px;border-top:1px solid var(--rule);font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--faint)}.sources b{color:var(--muted)}
