@@ -116,7 +116,7 @@ footer{border-top:2px solid var(--ink);margin-top:20px;padding:38px 0 60px}
 figure.photo{margin:28px 0;border:1px solid var(--rule);background:var(--sunk);overflow:hidden}
 figure.photo img{width:100%;aspect-ratio:16/9;object-fit:cover}
 figure.photo .fallback{display:none}figure.photo.noimg img{display:none}figure.photo.noimg .fallback{display:block}
-figure.photo .fallback svg{width:100%;height:auto;display:block}
+figure.photo .fallback svg{width:100%;height:auto;aspect-ratio:480/260;display:block;background:var(--sunk)}
 figure.photo figcaption{padding:9px 14px;font-family:var(--mono);font-size:10.5px;letter-spacing:.03em;color:var(--faint);line-height:1.7;border-top:1px solid var(--rule)}
 figure.photo figcaption b{color:var(--muted)}
 .prose{margin-top:26px}.prose p{font-size:17px;line-height:1.9;margin:0 0 20px}
